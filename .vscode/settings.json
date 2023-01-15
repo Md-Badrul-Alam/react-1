@@ -1,0 +1,6 @@
+{
+   "editor.insertSpaces": true,
+   "workbench.editor.enablePreview": true,
+   "editor.bracketPairColorization.enabled": true,
+   "editor.codeLens": true
+}

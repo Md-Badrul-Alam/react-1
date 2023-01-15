@@ -1,0 +1,40 @@
+.cart{
+    position: sticky;
+    top: 150px;
+}
+.cart h4{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #1C2B35;
+}
+.cart p{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #2A414F;
+}
+.cart h5{
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    color: #0E161A;
+}
+.order{
+    background-color: #0989c0b5;
+   color: #ffffff;
+   font-size: 20px;
+   margin: 10px;
+   padding: 10px;
+   border-radius: 5px;
+   border: none;
+}
+.clear{
+    background-color: #FF3030;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}

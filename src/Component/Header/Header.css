@@ -1,0 +1,23 @@
+.header{
+   height: 80px;
+   background: #1c2B35; 
+   display: flex;
+   justify-content: space-between;
+   padding: 0 70px;
+   align-items: center;
+   position: sticky;
+   top: 0;
+   z-index: 1;
+}
+.header img{
+    height: 300px;
+}
+.header a{
+    text-decoration: none;
+    color:#0071a0;
+    font-size: 18px;
+    margin-left: 35px;
+}
+.header a:hover{
+    color: #ffffff;
+}
